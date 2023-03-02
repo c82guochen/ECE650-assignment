@@ -1,0 +1,52 @@
+80c80
+<                         cerr << "Error : invalid arguments!" << endl;
+---
+>                         cerr << "Error: invalid arguments!" << endl;
+85c85
+<                     cerr << "Error : invalid arguments!" << endl;
+---
+>                     cerr << "Error: invalid arguments!" << endl;
+89c89
+<                 cerr << "Error : invalid arguments!" << endl;
+---
+>                 cerr << "Error: invalid arguments!" << endl;
+99c99
+<                         cerr << "Error : invalid arguments!" << endl;
+---
+>                         cerr << "Error: invalid arguments!" << endl;
+104c104
+<                     cerr << "Error : invalid arguments!" << endl;
+---
+>                     cerr << "Error: invalid arguments!" << endl;
+108c108
+<                 cerr << "Error : invalid arguments!" << endl;
+---
+>                 cerr << "Error: invalid arguments!" << endl;
+118c118
+<                         cerr << "Error : invalid arguments!" << endl;
+---
+>                         cerr << "Error: invalid arguments!" << endl;
+123c123
+<                     cerr << "Error : invalid arguments!" << endl;
+---
+>                     cerr << "Error: invalid arguments!" << endl;
+127c127
+<                 cerr << "Error : invalid arguments!" << endl;
+---
+>                 cerr << "Error: invalid arguments!" << endl;
+137c137
+<                         cerr << "Error : invalid arguments!" << endl;
+---
+>                         cerr << "Error: invalid arguments!" << endl;
+142c142
+<                     cerr << "Error : invalid arguments!" << endl;
+---
+>                     cerr << "Error: invalid arguments!" << endl;
+146c146
+<                 cerr << "Error : invalid arguments!" << endl;
+---
+>                 cerr << "Error: invalid arguments!" << endl;
+154c154
+<             cerr << "Error : invalid arguments!" << endl;
+---
+>             cerr << "Error: invalid arguments!" << endl;
